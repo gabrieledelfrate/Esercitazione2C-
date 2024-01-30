@@ -1,0 +1,15 @@
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\bin\Debug\net8.0\Esercitazione2C#.exe
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\bin\Debug\net8.0\Esercitazione2C#.deps.json
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\bin\Debug\net8.0\Esercitazione2C#.runtimeconfig.json
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\bin\Debug\net8.0\Esercitazione2C#.dll
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\bin\Debug\net8.0\Esercitazione2C#.pdb
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.AssemblyInfoInputs.cache
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.AssemblyInfo.cs
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.csproj.CoreCompileInputs.cache
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.sourcelink.json
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.dll
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\refint\Esercitazione2C#.dll
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.pdb
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\Esercitazione2C#.genruntimeconfig.cache
+C:\Users\GTA\Desktop\FULLSTACK\C#\Esercitazione2C#\obj\Debug\net8.0\ref\Esercitazione2C#.dll
